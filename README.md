@@ -40,3 +40,4 @@ Open `http://localhost:5178` in a browser. The app creates `App_Data/career-data
 - `DELETE /api/applications/{id}`
 
 This is a local portfolio project and does not include sign-in or multi-user access controls.
+# Career-Desk
