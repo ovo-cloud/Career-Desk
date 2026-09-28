@@ -1,0 +1,4 @@
+bin/
+obj/
+App_Data/career-data.json
+App_Data/career-data.json.tmp
